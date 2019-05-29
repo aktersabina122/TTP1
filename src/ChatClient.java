@@ -19,7 +19,7 @@ import javax.swing.JTextField;
 
 public class ChatClient extends JFrame implements ActionListener {
 	/**
-	 * Author: Sabina
+	 * Author: Sabina Akter
 	 */
 	private static final long SerialVersionUid = 1L;
 	private static Socket MySocket;
